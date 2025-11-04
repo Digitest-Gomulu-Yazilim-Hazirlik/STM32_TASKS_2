@@ -1,0 +1,1 @@
+- Bir STM32 mikrodenetleyicisinde Timer 6 (Zamanlayıcı) kullanarak bir LED'i belirli aralıklarla otomatik olarak yakıp söndüren bir program.
