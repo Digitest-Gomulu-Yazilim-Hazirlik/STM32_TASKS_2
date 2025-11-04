@@ -1,0 +1,1 @@
+- Kod, Timer 3 ile bilinen bir frekansta sinyal üretir ve ardından Timer 2'yi kullanarak bu sinyalin frekansını sürekli olarak ölçer ve frequency değişkeninde saklar.
