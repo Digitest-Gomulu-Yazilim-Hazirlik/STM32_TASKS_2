@@ -1,0 +1,4 @@
+-  Bir STM32 mikrodenetleyicisinde Timer 6 (Zamanlayıcı) kullanarak bir LED'i belirli aralıklarla otomatik olarak yakıp söndüren bir program.
+-  Butona basıldığında, ilk LED yanar ve zamanlayıcı başlar. Ardından 10, 20 ve 30 saniye geçtikçe sırayla diğer LED'ler yanarak bir ilerleme/sayım gösterir.
+-  Bir STM32 mikrodenetleyicisinde Zamanlayıcı 2'yi (Timer 2) kullanarak, PD12 pinine bağlı olan LED'i yaklaşık 5 saniyede bir otomatik olarak yakıp söndüren bir uygulama.
+-  Kod, Timer 3 ile bilinen bir frekansta sinyal üretir ve ardından Timer 2'yi kullanarak bu sinyalin frekansını sürekli olarak ölçer ve frequency değişkeninde saklar.
