@@ -1,0 +1,1 @@
+- Butona basıldığında, ilk LED yanar ve zamanlayıcı başlar. Ardından 10, 20 ve 30 saniye geçtikçe sırayla diğer LED'ler yanarak bir ilerleme/sayım gösterir.
